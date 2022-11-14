@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/git remote add origin https://github.com/kapaiiyzuk/Calculator.git
+     git branch -M main
+     git push -u origin main
